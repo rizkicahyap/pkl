@@ -18,7 +18,7 @@
 
   * File wasn't downloaded.
   * File was downloaded but can't be opened.
-  * Error in the console appeared.
+* Error in the console appeared.
 
 1. Click `Export to PDF` button in the second editor.
 
@@ -26,9 +26,9 @@
 
   * File wasn't downloaded.
   * The notification with error appeared in the editor.
-  * There is an error message in the console.
+* There is an error message in the console.
 
   **Unexpected:**
 
   * File was downloaded and can't be opened.
-  * Success notification was displayed.
+* Success notification was displayed.
